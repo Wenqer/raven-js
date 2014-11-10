@@ -1,0 +1,14 @@
+{
+  "name": "raven-js",
+  "version": "1.1.16",
+  "repo": "zheneva/raven-js",
+  "description": "Component: raven, just like in getsentry/raven-js.",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "dist/raven.js",
+  "scripts": [
+    "dist/raven.js"
+  ]
+}
